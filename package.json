@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "gulp": "^4.0.2",
-    "gulp-cli": "^2.2.0"
+    "gulp-cli": "^2.2.0",
+    "uikit": "^3.3.3"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
