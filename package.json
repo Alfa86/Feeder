@@ -1,32 +1,30 @@
 {
-  "name": "single-page",
+  "name": "feeder",
   "version": "1.0.0",
-  "description": "One Page Theme Ready For Coding",
-  "main": "index.js",
-  "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-cli": "^2.2.0",
-    "uikit": "^3.3.3"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "gilp": "0.0.7",
-    "gulp-sass": "^4.0.2"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Simple one pager Feeder theme made with Uikit3",
+  "main": "gulpfile.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Alfa86/Feeder.git"
   },
   "keywords": [
-    "todo"
+    "boilerplate"
   ],
-  "author": "Igor Apfentaler",
+  "author": "Igor Apfentalerr",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Alfa86/Feeder/issues"
   },
-  "homepage": "https://github.com/Alfa86/Feeder#readme"
+  "homepage": "https://github.com/Alfa86/Feeder#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  }
 }
