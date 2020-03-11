@@ -1,0 +1,31 @@
+{
+  "name": "single-page",
+  "version": "1.0.0",
+  "description": "One Page Theme Ready For Coding",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gilp": "0.0.7",
+    "gulp-sass": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfa86/Feeder.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Igor Apfentaler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alfa86/Feeder/issues"
+  },
+  "homepage": "https://github.com/Alfa86/Feeder#readme"
+}
